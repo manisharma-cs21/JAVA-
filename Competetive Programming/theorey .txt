@@ -1,0 +1,7 @@
+theorey \
+DFA NFA 
+MINIMIZATION 
+COVERSION 
+TRANSPOSE
+----------------
+

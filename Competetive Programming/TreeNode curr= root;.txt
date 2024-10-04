@@ -1,0 +1,22 @@
+TreeNode curr= root;
+Stack<TreeNode> stack = new Stack<>();
+while(curr!=null || !stack.isEmpty()){
+
+if(curr!=null){
+stack.push(curr);
+curr=curr.left;
+}
+else {
+   TreeNode temp = stack.peak.right;
+   if(temp==null)
+   {
+     temp=stack.pop();
+     sout(temp.data);
+     while(!stack.isEmpty() && temp=stack.peek.right)
+      {
+        temp=sta
+
+    }
+ 
+}
+}
